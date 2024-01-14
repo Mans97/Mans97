@@ -11,8 +11,12 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 ***
 
 
-# <img width="50" height="50" src="https://img.icons8.com/ios/50/about-me.png" alt="about-me"/> About me
+# <div style="display:flex; align-items:center"><img width="48" height="48" src="https://img.icons8.com/fluency/48/guest-male--v1.png" alt="guest-male--v1"/> About me<div>
 
 - Currently working at [Net Service S.p.A.](https://www.netservice.eu/en/) as Software Developer
-
+    - Skills: Java, Spring-boot, MongoDB, SQL, Docker
 - Master Degree in Computer Science at Bologna University
+    - Thesis: [Keyword-Based Multimedia Data Lookup in Decentralized Systems](https://amslaurea.unibo.it/27598/)
+        - Academic Paper (2023): [Keyword-Based Multimedia Data Lookup in Decentralized Systems](https://ieeexplore.ieee.org/document/10286930)
+- Bachelor Degree in Computer Science for Management at Bologna University
+    - Thesis: [Design and implementation of a mobile app: BPMWalker](https://amslaurea.unibo.it/21589/)
