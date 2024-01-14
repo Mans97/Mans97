@@ -10,7 +10,8 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 
 ***
 
-# [![About Me]()](https://icons8.com/icon/bZGWfxY6L1f0/su-di-me) About me
+
+# <img width="50" height="50" src="https://img.icons8.com/ios/50/about-me.png" alt="about-me"/> About me
 
 - Currently working at [Net Service S.p.A.](https://www.netservice.eu/en/) as Software Developer
 
