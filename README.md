@@ -17,10 +17,14 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 <br/>
 
 - Currently working at [Net Service S.p.A.]("https://www.netservice.eu/en/") as Software Developer
+
     - Skills: Java, Spring-boot, MongoDB, SQL, Docker
 
 - Master Degree in Computer Science at Bologna University
     - Thesis: [Keyword-Based Multimedia Data Lookup in Decentralized Systems]("https://amslaurea.unibo.it/27598/")
+
+        <br/>
+        
         - Academic Paper (2023): [Keyword-Based Multimedia Data Lookup in Decentralized Systems]("https://ieeexplore.ieee.org/document/10286930")
  - Bachelor Degree in Computer Science for Management at Bologna University
     - Thesis: [Design and implementation of a mobile app: BPMWalker]("https://amslaurea.unibo.it/21589/")
