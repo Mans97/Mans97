@@ -11,9 +11,18 @@
 <hr/>
 
 
-<div style="display:flex; align-items:center;">
+<div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+        .aboutme {
+            display: flex;
+            align-items: center;
+        }
+    </style>
+    <div class="aboutme">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/guest-male--v1.png" alt="guest-male--v1"/>
     <h1>About me</h1>
+    </div>
+    
 </div>
 
 - Currently working at [Net Service S.p.A.](https://www.netservice.eu/en/) as Software Developer
