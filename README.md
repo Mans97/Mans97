@@ -1,17 +1,20 @@
-# Hello there! I'm Emanuele Fazzini
+<h1>Hello there! I'm Emanuele Fazzini</h1>
 
-A passionate fullstack developer specializing in crafting web and mobile applications. I am a graduate student in master's degree computer science at Bologna University with a special interest for decentralized system.
+<p>A passionate fullstack developer specializing in crafting web and mobile applications. I am a graduate student in master's degree computer science at Bologna University with a special interest for decentralized system.</p>
 
-Currently, I'm working at Net Service S.p.A. on a Java application seamlessly integrated with Docker microservices. My expertise spans from JavaFX and React for the frontend to Spring Boot for the backend, with proficiency in SQL and MongoDB databases.
+<p>Currently, I'm working at Net Service S.p.A. on a Java application seamlessly integrated with Docker microservices. My expertise spans from JavaFX and React for the frontend to Spring Boot for the backend, with proficiency in SQL and MongoDB databases.</p>
 
-I approach work with patience, a dedication to problem-solving and I try to help my colleagues with anything I can help with. I consider myself a curious person and excited to explore emerging technologies.
+<p>I approach work with patience, a dedication to problem-solving and I try to help my colleagues with anything I can help with. I consider myself a curious person and excited to explore emerging technologies.</p>
 
-Looking ahead, I aim to expand my skills as a fullstack developer and aspire to more advanced roles by increasing my expertise. For more details, please download my resume from the menu above.
+<p>Looking ahead, I aim to expand my skills as a fullstack developer and aspire to more advanced roles by increasing my expertise. For more details, please download my resume from the menu above.</p>
 
-***
+<hr/>
 
 
-<div style="display:flex; align-items:center;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/guest-male--v1.png" alt="guest-male--v1"/> <h1>About me</h1></div>
+<div style="display:flex; align-items:center;">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/guest-male--v1.png" alt="guest-male--v1"/>
+    <h1>About me</h1>
+</div>
 
 - Currently working at [Net Service S.p.A.](https://www.netservice.eu/en/) as Software Developer
     - Skills: Java, Spring-boot, MongoDB, SQL, Docker
