@@ -24,15 +24,8 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
         - Academic Paper (2023): [Keyword-Based Multimedia Data Lookup in Decentralized Systems](https://ieeexplore.ieee.org/document/10286930)
  - Bachelor Degree in Computer Science for Management at Bologna University
     - Thesis: [Design and implementation of a mobile app: BPMWalker](https://amslaurea.unibo.it/21589/)
-    
-<img align="left" width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-interests-dating-app-flaticons-lineal-color-flat-icons.png" alt="external-interests-dating-app-flaticons-lineal-color-flat-icons"/><h1>Interests</h1>
 
 <br/>
-
-- Web and mobile application, from design to implementation
-- Blockchain
-- AI
-- Finance
 
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/workstation.png" alt="workstation"/><h1>Main Projects</h1>
 
@@ -51,5 +44,16 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
     - A website where it is possible to see the measurements done by the users on a map;
 
     - An Android application with which users take noise measuraments and send them to the server to store them into the database.
+
+<br/>
+
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-interests-dating-app-flaticons-lineal-color-flat-icons.png" alt="external-interests-dating-app-flaticons-lineal-color-flat-icons"/><h1>Interests</h1>
+
+<br/>
+
+- Web and mobile application, from design to implementation
+- Blockchain
+- AI
+- Finance
 
 <div align="right" style="font-size:smaller;">icons by <a href="https://icons8.com">Icons8</div>
