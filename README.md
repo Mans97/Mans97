@@ -14,8 +14,6 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 <img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/guest-male--v1.png" alt="guest-male--v1"/>
 <h1>About me</h1>
 
-<br/>
-
 - Currently working at [Net Service S.p.A.](https://www.netservice.eu/en/) as Software Developer
 
     - Skills: Java, Spring-boot, MongoDB, SQL, Docker
