@@ -36,8 +36,6 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/workstation.png" alt="workstation"/><h1>Main Projects</h1>
 
-<br/>
-
 ### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
 
 - We present a study where the aim is to find anomalies with a data-driven approach, using supervised techniques such as Neural Networks (feed-forward), SVM, Naive Bayes, KNN and Random Forest. We developed binary and multiclass classification.
