@@ -38,15 +38,15 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 
 <br/>
 
-##### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
+### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
 
 - We present a study where the aim is to find anomalies with a data-driven approach, using supervised techniques such as Neural Networks (feed-forward), SVM, Naive Bayes, KNN and Random Forest. We developed binary and multiclass classification.
 
-##### [Fatball.io](https://gitlab.com/BonnyBay/fatball)
+### [Fatball.io](https://gitlab.com/BonnyBay/fatball)
 
 - Game based on Colyseus framework to build a multiplayer game in distributed manner using Redis Presence for scalability. The project consists in a realtime game which every player needs to shot enemies, eats balls and became the fat one.
 
-##### [NoiSense - Crowdsensing platform for monitoring the noise in the world](https://gitlab.com/ema.fazz/context-aware-system)
+### [NoiSense - Crowdsensing platform for monitoring the noise in the world](https://gitlab.com/ema.fazz/context-aware-system)
 
 - This project is divided in two main platform:
 
