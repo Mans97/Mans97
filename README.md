@@ -36,9 +36,6 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
 
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/workstation.png" alt="workstation"/><h1>Main Projects</h1>
 
-
-<p align="right" style="font-size:10px">icons by <a href="https://icons8.com">Icons8</a></p>
-
 - [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
     - We present a study where the aim is to find anomalies with a data-driven approach, using supervised techniques such as Neural Networks (feed-forward), SVM, Naive Bayes, KNN and Random Forest. We developed binary and multiclass classification.
 - [Fatball.io](https://gitlab.com/BonnyBay/fatball)
@@ -48,3 +45,4 @@ Looking ahead, I aim to expand my skills as a fullstack developer and aspire to 
         - A website where it is possible to see the measurements done by the users on a map;
         - An Android application with which users take noise measuraments and send them to the server to store them into the database.
 
+<div align="right" style="font-size:smaller;">icons by <a href="https://icons8.com">Icons8</div>
