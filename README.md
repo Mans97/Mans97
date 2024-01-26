@@ -7,7 +7,7 @@ Currently, I'm working at Net Service S.p.A. on a Java application seamlessly in
 
 I approach work with patience, a dedication to problem-solving and I try to help my colleagues with anything I can help with. I consider myself a curious person and excited to explore emerging technologies.
 
-Looking ahead, I aim to expand my skills as a fullstack developer and aspire to more advanced roles by increasing my expertise. For more details, please download my resume from the menu above.
+Looking ahead, I aim to expand my skills as a fullstack developer and aspire to more advanced roles by increasing my expertise.
 
 ***
 
